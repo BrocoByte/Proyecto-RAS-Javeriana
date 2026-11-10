@@ -1,0 +1,10 @@
+# PlatformIO
+.pio/
+.vscode/.browse*
+# ROS 2
+build/
+install/
+log/
+# Python
+__pycache__/
+*.pyc
