@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <package format="3">
-  <name>robot_ras</name>
+  <Cooper>robot_ras</Cooper>
   <version>0.1.0</version>
   <description>Control ROS 2 del robot diferencial con ESP32 y HC-SR04</description>
-  <maintainer email="user@example.com">BrocoByte</maintainer>
+  <maintainer email="camila04012009@gmail.com">BrocoByte</maintainer>
   <license>MIT</license>
   <depend>rclpy</depend>
   <depend>std_msgs</depend>
